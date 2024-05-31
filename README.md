@@ -1,16 +1,20 @@
-### Hi there 👋
+## 👋
+Hello! I'm Iulian, a passionate and ambitious computer science student. I am focused on building a career in software engineering and am always eager to contribute to real-world projects.
+Feel free to reach out via email or connect with me on LinkedIn for any interesting discussions or opportunities!
 
-<!--
-**aighita/aighita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 București, Romania  
+📧 [andreighita03@gmail.com](mailto:andreighita03@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/andrei-iulian-ghita-4669a22a6/)  
 
-Here are some ideas to get you started:
+### 🛠 Skills
+- Critical Thinking and Problem Solving
+- Leadership and Teamwork
+- Fast Learner with a Strong Ability to Multitask
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🗣 Languages
+- **Romanian**: Native
+- **English**: Fluent (C1)
+
+### 🎵 Hobbies
+- Music & Songwriting
+- Sports & Weight Lifting

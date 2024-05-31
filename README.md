@@ -6,6 +6,7 @@ Feel free to reach out via email or connect with me on LinkedIn for any interest
 📧 [andreighita03@gmail.com](mailto:andreighita03@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/andrei-iulian-ghita-4669a22a6/)  
 
+<!--
 ### 🛠 Skills
 - Critical Thinking and Problem Solving
 - Leadership and Teamwork
@@ -18,3 +19,4 @@ Feel free to reach out via email or connect with me on LinkedIn for any interest
 ### 🎵 Hobbies
 - Music & Songwriting
 - Sports & Weight Lifting
+-->

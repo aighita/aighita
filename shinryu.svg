@@ -1,0 +1,97 @@
+<svg
+  width="400"
+  height="200"
+  viewBox="0 0 400 200"
+  xmlns="http://www.w3.org/2000/svg"
+  role="img"
+  aria-labelledby="title desc"
+>
+  <title id="title">Shinryu stroke animation</title>
+  <desc id="desc">深流 written in a continuous red stroke loop, Apple-style.</desc>
+
+  <defs>
+    <!-- Red glow filter -->
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="3" result="blur" />
+      <feColorMatrix
+        in="blur"
+        type="matrix"
+        values="
+          1     0     0     0     0.4
+          0     0     0     0     0
+          0     0     0     0     0
+          0     0     0   0.75    0"
+        result="glow"
+      />
+      <feMerge>
+        <feMergeNode in="glow" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <style>
+      .stroke-text {
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, "SF Pro Display",
+                      "Hiragino Sans", "Yu Gothic", sans-serif;
+        font-size: 96px;
+        font-weight: 500;
+        fill: none;
+        stroke: #ff1a1a;      /* RED */
+        stroke-width: 3;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-dasharray: 600;
+        stroke-dashoffset: 600;
+      }
+
+      .stroke-text-glow {
+        stroke-width: 5;
+        opacity: 0.8;
+      }
+    </style>
+  </defs>
+
+  <!-- Glow layer -->
+  <text
+    x="50%"
+    y="50%"
+    text-anchor="middle"
+    dominant-baseline="central"
+    class="stroke-text stroke-text-glow"
+    filter="url(#glow)"
+  >
+    深流
+    <animate
+      attributeName="stroke-dashoffset"
+      values="600;0;-600"
+      keyTimes="0;0.5;1"
+      dur="5s"
+      repeatCount="indefinite"
+    />
+  </text>
+
+  <!-- Main stroke layer -->
+  <text
+    x="50%"
+    y="50%"
+    text-anchor="middle"
+    dominant-baseline="central"
+    class="stroke-text"
+  >
+    深流
+    <animate
+      attributeName="stroke-dashoffset"
+      values="600;0;-600"
+      keyTimes="0;0.5;1"
+      dur="5s"
+      repeatCount="indefinite"
+    />
+    <animate
+      attributeName="opacity"
+      values="0.9;1;0.9"
+      keyTimes="0;0.5;1"
+      dur="5s"
+      repeatCount="indefinite"
+    />
+  </text>
+</svg>

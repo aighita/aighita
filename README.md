@@ -1,20 +1,25 @@
-<div align="">
+<div align="center">
   <img src="./assets/header.svg" width="100%" alt="Animated Header">
 
   <br><br>
 
   <img src="https://img.shields.io/badge/Open_Source_Contributions-151515?style=for-the-badge&logo=github&logoColor=white" height="30" alt="Contributions">
 
+  <br><br>
+
   [![Kestra](https://img.shields.io/badge/Kestra-7536F6?style=for-the-badge&logo=kestra&logoColor=white)](https://kestra.io)
   [![React Bits](https://img.shields.io/badge/React_Bits-151515?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactbits.dev)
   [![Dono](https://img.shields.io/badge/Dono_CLI-black?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/jervw/dono)
 
+  <br><br>
 
   <img src="https://img.shields.io/badge/My_Projects-151515?style=for-the-badge&logo=vercel&logoColor=white" height="30" alt="Projects">
 
+  <br><br>
+
   <table>
     <tr>
-      <td width="60" align="">
+      <td width="60" align="center">
         <img src="https://raw.githubusercontent.com/aighita/moji-db/main/assets/logo.svg" width="50" alt="Moji Logo">
       </td>
       <td align="left">
@@ -24,7 +29,7 @@
       </td>
     </tr>
     <tr>
-      <td width="60" align="">
+      <td width="60" align="center">
         <img src="https://raw.githubusercontent.com/aighita/coding-challenges/main/assets/circle.svg" width="50" alt="Coding Challenges Logo">
       </td>
       <td align="left">
@@ -36,7 +41,3 @@
   </table>
 
 </div>
-
-<!-- <div align="center">
-  <img src="./assets/profile.svg" width="100%" alt="My Animated Profile">
-</div> -->

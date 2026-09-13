@@ -21,11 +21,11 @@
 
   <!-- Titluri principale -->
   <text x="50" y="160" class="title" font-size="76" font-weight="700" letter-spacing="-2">Software Engineer</text>
-  <text x="180" y="225" class="title" font-size="54" font-weight="400" letter-spacing="-1">Software Developer</text>
+  <text x="165" y="225" class="title" font-size="54" font-weight="400" letter-spacing="-1">Software Developer</text>
 
   <!-- Subtitlu -->
-  <text x="130" y="300" class="subtitle" font-size="24">I build software that</text>
-  <text x="50" y="340" class="subtitle" font-size="24">bridges the gap between ideas and reality.</text>
+  <!-- <text x="130" y="300" class="subtitle" font-size="24">I build software that</text> -->
+  <!-- <text x="50" y="340" class="subtitle" font-size="24">bridges the gap between ideas and reality.</text> -->
 
   <!-- Buton CTA -->
   <g transform="translate(50, 380)">

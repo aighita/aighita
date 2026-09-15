@@ -9,8 +9,6 @@ import { ContactCardCtas } from "./contact-card-ctas";
 import { FadeIn } from "@/components/ui/motion-primitives";
 import { ShaderFlow } from "../shaders/shader-flow";
 import { Button } from "@heroui/react/button";
-import { Avatar } from "@heroui/react/avatar";
-
 
 const CARD_FADE_MASK =
   "radial-gradient(ellipse 90% 110% at 50% 50%, rgba(0,0,0,1) 0%, rgba(0,0,0,0.92) 40%, rgba(0,0,0,0.7) 70%, rgba(0,0,0,0.4) 90%, rgba(0,0,0,0.15) 100%)";
